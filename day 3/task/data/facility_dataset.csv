@@ -1,0 +1,124 @@
+facility_id,location,cleanliness_score,odor_score,waste_level,water_availability,footfall,complaints,inspection_date
+F1001,Aurangabad,59,79.0,69,Available,704.0,7.0,01-01-2025
+F1002,Pune,59,40.0,72,Available,691.0,6.0,06-01-2025
+F1003,Akola,70,50.0,41,Available,192.0,9.0,11-01-2025
+F1004,Mumbai,86,67.0,42,Available,848.0,4.0,17-01-2025
+F1005,Aurangabad,57,64.0,76,Not Available,834.0,1.0,22-01-2025
+F1006,Yavatmal,95,89.0,27,Not Available,168.0,6.0,27-01-2025
+F1007,Nagpur,76,62.0,34,Not Available,99.0,8.0,02-02-2025
+F1008,Aurangabad,83,70.0,63,Available,5000.0,6.0,07-02-2025
+F1009,Akola,93,69.0,67,Available,232.0,2.0,12-02-2025
+F1010,Mumbai,76,81.0,76,Available,222.0,3.0,18-02-2025
+F1011,Pune,48,74.0,55,Available,783.0,5.0,23-02-2025
+F1012,Akola,74,46.0,33,Available,248.0,3.0,28-02-2025
+F1013,Akola,81,,41,Available,695.0,3.0,06-03-2025
+F1014,Nagpur,67,65.0,56,Not Available,246.0,5.0,11-03-2025
+F1015,Nashik,83,87.0,32,Available,678.0,6.0,16-03-2025
+F1016,Mumbai,89,91.0,75,Not Available,551.0,5.0,22-03-2025
+F1017,Nanded,59,88.0,36,Available,460.0,3.0,27-03-2025
+F1018,Akola,87,41.0,11,Available,421.0,5.0,02-04-2025
+F1019,Nashik,73,40.0,26,Available,66.0,3.0,2026-15-40
+F1020,Nanded,80,87.0,42,Available,252.0,3.0,12-04-2025
+F1021,Mumbai,57,51.0,18,Available,324.0,6.0,18-04-2025
+F1022,Amravati,76,44.0,52,Available,545.0,5.0,23-04-2025
+F1023,Yavatmal,51,76.0,57,Available,162.0,6.0,28-04-2025
+F1024,Nashik,95,71.0,48,Available,434.0,80.0,04-05-2025
+F1025,Wardha,66,94.0,51,Available,532.0,4.0,09-05-2025
+F1026,Amravati,72,48.0,35,Available,392.0,7.0,14-05-2025
+F1027,Yavatmal,46,80.0,59,Available,585.0,6.0,20-05-2025
+F1028,Nagpur,86,74.0,34,Available,905.0,5.0,25-05-2025
+F1029,Aurangabad,89,58.0,33,Available,278.0,4.0,30-05-2025
+F1030,Pune,50,87.0,22,Available,675.0,3.0,05-06-2025
+F1031,Wardha,72,55.0,69,Available,490.0,3.0,10-06-2025
+F1032,Nagpur,72,42.0,16,Available,972.0,7.0,15-06-2025
+F1033,Mumbai,88,59.0,66,Not Available,990.0,7.0,21-06-2025
+F1034,Nagpur,88,63.0,45,Available,31.0,6.0,26-06-2025
+F1035,Aurangabad,64,93.0,54,Available,349.0,6.0,02-07-2025
+F1036,Mumbai,74,95.0,29,,755.0,7.0,07-07-2025
+F1037,Wardha,55,72.0,74,Available,803.0,8.0,12-07-2025
+F1038,Aurangabad,72,63.0,17,Available,987.0,6.0,18-07-2025
+F1039,Nanded,69,91.0,25,Available,377.0,3.0,23-07-2025
+F1040,Pune,83,50.0,23,Available,991.0,7.0,28-07-2025
+F1041,Wardha,77,88.0,85,Available,427.0,5.0,03-08-2025
+F1042,Nanded,45,47.0,24,Available,687.0,5.0,08-08-2025
+F1043,Yavatmal,71,75.0,75,Unknown,392.0,7.0,13-08-2025
+F1044,Wardha,57,77.0,41,Available,27.0,4.0,19-08-2025
+F1045,Yavatmal,85,79.0,72,Not Available,141.0,9.0,24-08-2025
+F1046,Mumbai,47,59.0,60,Available,367.0,4.0,29-08-2025
+F1047,Nanded,83,74.0,34,Available,695.0,5.0,04-09-2025
+F1048,Pune,50,87.0,67,Available,109.0,2.0,09-09-2025
+F1049,Aurangabad,52,64.0,72,Available,667.0,6.0,14-09-2025
+F1050,Akola,71,74.0,71,Available,717.0,3.0,20-09-2025
+F1051,Nagpur,53,64.0,31,Available,335.0,6.0,25-09-2025
+F1052,Amravati,81,68.0,67,Available,197.0,2.0,01-10-2025
+F1053,Pune,77,57.0,67,Available,559.0,3.0,06-10-2025
+F1054,Nanded,95,85.0,58,Available,751.0,5.0,11-10-2025
+F1055,Akola,86,57.0,61,Available,,3.0,17-10-2025
+F1056,Pune,88,41.0,51,Available,60.0,4.0,22-10-2025
+F1057,Nanded,68,93.0,79,Available,759.0,5.0,27-10-2025
+F1058,Nashik,59,74.0,24,Not Available,723.0,6.0,02-11-2025
+F1059,Nashik,76,55.0,63,Not Available,942.0,3.0,07-11-2025
+F1060,Yavatmal,76,80.0,69,Available,521.0,3.0,12-11-2025
+F1061,Pune,68,75.0,17,Not Available,978.0,4.0,18-11-2025
+F1062,Nashik,85,72.0,150,Available,164.0,5.0,23-11-2025
+F1063,Nanded,93,43.0,69,Available,220.0,4.0,28-11-2025
+F1064,Yavatmal,93,72.0,14,Available,948.0,2.0,04-12-2025
+F1065,Nanded,56,53.0,77,Available,743.0,6.0,09-12-2025
+F1066,Yavatmal,83,60.0,15,Available,480.0,6.0,14-12-2025
+F1067,Pune,46,87.0,56,Available,751.0,8.0,20-12-2025
+F1068,Akola,120,59.0,64,Available,771.0,1.0,25-12-2025
+F1069,Aurangabad,93,95.0,49,Available,944.0,6.0,31-12-2025
+F1070,Wardha,81,47.0,61,Not Available,928.0,2.0,05-01-2026
+F1071,Akola,93,46.0,25,Available,577.0,5.0,10-01-2026
+F1072,Mumbai,61,42.0,22,Available,566.0,2.0,16-01-2026
+F1073,Nanded,93,56.0,39,Not Available,272.0,6.0,21-01-2026
+F1074,Mumbai,46,72.0,28,Not Available,409.0,4.0,26-01-2026
+F1075,Akola,46,87.0,26,Not Available,613.0,3.0,01-02-2026
+F1076,Yavatmal,72,51.0,72,Available,902.0,5.0,06-02-2026
+F1077,Wardha,67,90.0,28,Available,275.0,,11-02-2026
+F1078,Wardha,81,61.0,67,Available,728.0,3.0,17-02-2026
+F1079,Amravati,76,94.0,64,Available,834.0,4.0,22-02-2026
+F1080,Wardha,77,61.0,71,Not Available,940.0,8.0,27-02-2026
+F1081,Aurangabad,45,85.0,32,Available,469.0,4.0,05-03-2026
+F1082,Wardha,63,69.0,18,Not Available,29.0,10.0,10-03-2026
+F1083,Akola,46,77.0,21,Not Available,843.0,4.0,15-03-2026
+F1084,Amravati,88,77.0,10,Not Available,817.0,5.0,21-03-2026
+F1085,Akola,70,84.0,67,Available,261.0,10.0,26-03-2026
+F1086,Akola,76,90.0,10,Available,270.0,3.0,01-04-2026
+F1087,Nagpur,50,93.0,43,Available,896.0,4.0,06-04-2026
+F1088,Amravati,76,47.0,57,Not Available,24.0,7.0,11-04-2026
+F1089,Akola,-10,66.0,10,Available,138.0,5.0,17-04-2026
+F1090,Nagpur,55,66.0,25,Available,820.0,10.0,22-04-2026
+F1091,Nagpur,61,73.0,70,Available,393.0,4.0,27-04-2026
+F1092,Amravati,82,60.0,73,Available,84.0,2.0,03-05-2026
+F1093,Mumbai,68,69.0,72,Not Available,165.0,3.0,08-05-2026
+F1094,Yavatmal,49,-5.0,78,Not Available,243.0,5.0,13-05-2026
+F1095,Aurangabad,78,67.0,31,Available,258.0,8.0,19-05-2026
+F1096,Yavatmal,50,86.0,76,Not Available,196.0,4.0,24-05-2026
+F1097,Wardha,66,72.0,85,Available,798.0,3.0,29-05-2026
+F1098,Aurangabad,55,44.0,35,Available,872.0,8.0,04-06-2026
+F1099,Wardha,92,87.0,25,Available,301.0,6.0,09-06-2026
+F1100,Akola,60,58.0,60,Available,82.0,8.0,14-06-2026
+F1101,Nanded,77,43.0,66,Available,236.0,3.0,20-06-2026
+F1102,,53,74.0,38,Available,873.0,3.0,25-06-2026
+F1103,Aurangabad,50,88.0,87,Available,846.0,5.0,01-07-2026
+F1104,Aurangabad,60,56.0,78,Available,814.0,11.0,06-07-2026
+F1105,Akola,73,83.0,56,Available,708.0,7.0,11-07-2026
+F1106,Mumbai,47,67.0,71,Available,480.0,4.0,17-07-2026
+F1107,Nagpur,64,69.0,78,Available,948.0,3.0,22-07-2026
+F1108,Akola,80,68.0,85,Available,629.0,8.0,27-07-2026
+F1109,Nashik,63,85.0,25,Available,124.0,8.0,02-08-2026
+F1110,Nagpur,70,92.0,57,Available,118.0,3.0,07-08-2026
+F1111,Amravati,47,45.0,48,Not Available,530.0,3.0,12-08-2026
+F1112,Nagpur,63,74.0,42,Available,404.0,6.0,18-08-2026
+F1113,Mumbai,64,80.0,32,Available,424.0,2.0,23-08-2026
+F1114,Nagpur,76,76.0,19,Available,842.0,7.0,28-08-2026
+F1115,Amravati,51,63.0,78,Available,537.0,5.0,03-09-2026
+F1116,Mumbai,85,68.0,43,Available,495.0,5.0,08-09-2026
+F1117,Yavatmal,77,88.0,61,Available,996.0,6.0,13-09-2026
+F1118,Aurangabad,84,85.0,19,Available,728.0,1.0,19-09-2026
+F1119,Aurangabad,83,92.0,28,Available,882.0,10.0,24-09-2026
+F1120,Wardha,62,70.0,67,Available,664.0,2.0,30-09-2026
+F1011,Pune,48,74.0,55,Available,783.0,5.0,23-02-2025
+F1026,Amravati,72,48.0,35,Available,392.0,7.0,14-05-2025
+F1071,Akola,93,46.0,25,Available,577.0,5.0,10-01-2026
